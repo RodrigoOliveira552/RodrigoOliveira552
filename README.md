@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Rodrigo Oliveira🙋‍♂️
+# Rodrigo Oliveira🙋‍♂️
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://https://www.linkedin.com/in/rodrigo-oliveira-dev/)](https://www.linkedin.com/in/rodrigo-oliveira-dev/) 
 
 
