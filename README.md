@@ -1,5 +1,5 @@
 # 💫 About Me:
-⚡ Tec tec machine<br>🎓 Studying Computer Science...<br>👨‍💻 Passionate about technology...<br>🎬 Content creator...<br>🌍 Born in Brazil city of Rio de Janeiro...<br>☕ Coding in Java...
+⚡ Tec tec machine<br>🎓 Computer Science...<br>👨‍💻 Passionate about technology...<br>🎬 Content creator...<br>🌍 Born in Brazil city of Rio de Janeiro...<br>☕ Coding in Java...
 
 
 ## 🌐 Socials:
