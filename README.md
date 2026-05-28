@@ -1,7 +1,7 @@
 # 💫 About Me:
 # Olá, eu sou o Rodrigo! 🚀
 
-**Sênior em Qualidade de Software (QA/SDET) | Ex-Tech Lead Fullstack | Bacharel em Ciência da Computação**
+**Sênior em Qualidade de Software (QA/SDET) | Ex- Dev e Tech Lead Fullstack | Bacharel em Ciência da Computação**
 
 Minha jornada de **mais de 6 anos** respirando tecnologia não começou "quebrando" sistemas, mas sim construindo eles. Eu não apenas procuro bugs; eu busco entender como o software deve funcionar porque já estive do outro lado de quem dá vida a ele.
 
